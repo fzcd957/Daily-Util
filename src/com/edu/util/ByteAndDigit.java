@@ -1,5 +1,5 @@
 package com.edu.util;
-//String转16进制
+//String转16进制以及16进制转String
 public class ByteAndDigit {
 	
 	public static String byte2Hex(byte value) {
